@@ -1,6 +1,6 @@
-# Template
+# Vertical Launcher
 
-Template repository.
+Launcher for Android.
 
 ## License
 
